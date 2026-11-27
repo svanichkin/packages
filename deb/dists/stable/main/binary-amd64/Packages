@@ -1,0 +1,19 @@
+Package: say
+Architecture: amd64
+Version: 2.0.6
+Priority: optional
+Section: net
+Maintainer: s.vanichkin <svanichkin@users.noreply.github.com>
+Installed-Size: 21439
+Recommends: libasound2t64 | libasound2, libpulse0
+Conflicts: gnustep-gui-runtime
+Filename: pool/say_2.0.6_amd64.deb
+Size: 8581110
+MD5sum: 7114704a1cf153433dc68cc603d69d12
+SHA1: f7f57441fe9d17a6e978f4adfce28066d2a6e888
+SHA256: ad0ed4d609143c68a7fd68cd85eb17eadc9d026bfc845bf0b479bbc397d3b316
+SHA512: 573dc07f0c21d12e37209c7dcd364640cc42312f4247dda932e1647f708b31c01bb147b80373dd47130025e42b3cca193cd3236270b28f5fd1fcc979c538d00d
+Homepage: https://github.com/svanichkin/say
+Description: Peer-to-peer video calls over Yggdrasil, in the terminal.
+ Calls go directly between two devices, with no server in between.
+

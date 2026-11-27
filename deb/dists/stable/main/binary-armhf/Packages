@@ -1,0 +1,19 @@
+Package: say
+Architecture: armhf
+Version: 2.0.6
+Priority: optional
+Section: net
+Maintainer: s.vanichkin <svanichkin@users.noreply.github.com>
+Installed-Size: 20017
+Recommends: libasound2t64 | libasound2, libpulse0
+Conflicts: gnustep-gui-runtime
+Filename: pool/say_2.0.6_armhf.deb
+Size: 8222712
+MD5sum: 1bed138ad9bcc3ff55518878d0d49abd
+SHA1: 1f6e19c3981e6f2bd4ffb6be46603bcb7d98a66d
+SHA256: 415f9a8970303fcabc976b9c10da685c85fc1528d4ab9cbc496303df15ed9388
+SHA512: a0fc0263d6ad04632828a1bbe061bcf67f157d6d0ef74d8ae928523cf9132e72ea8b70ee8dac39e4f83d17eeaea4ce889ee8db7d5d0ec1b24dcac418ece0c449
+Homepage: https://github.com/svanichkin/say
+Description: Peer-to-peer video calls over Yggdrasil, in the terminal.
+ Calls go directly between two devices, with no server in between.
+
